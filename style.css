@@ -73,13 +73,13 @@ nav {
 }
 
 h3 {
-    font-family: 'Alfa Slab One', cursive;
-    font-size: 40px;
+    font-family: 'Koulen', cursive;
+    font-size: 60px;
     letter-spacing: 1px;
 }
 
 h2 {
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Koulen', cursive;
     font-size: 38px;
     letter-spacing: 1px;
 }
@@ -131,7 +131,7 @@ footer {
 
 .events-h1 {
     font-size: 70px;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Koulen', cursive;
     color: white;
     margin-top: -80px;
 }
@@ -200,7 +200,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Koulen', cursive;
     font-size: 50px;
     letter-spacing: 1px;
     height: 500px;
